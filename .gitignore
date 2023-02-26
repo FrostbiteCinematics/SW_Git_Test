@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# StarWarsPackage additional content, please download from Google Drive or other branches.
+!Source/*
+!Maya/*
+Builds/*
